@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace EX_5A_Password_Cracker
 {
+    //
+    //  Kurt Woodward
+    //  ISTA 421 EX 5A
+    //  Password Cracker
+    //
     class Cracker
     {
         public static char[] Rainbow { get; set; }
